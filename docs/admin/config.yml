@@ -4,11 +4,8 @@ backend:
   # This line should *not* be indented
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
 collections:
-  - name: "posts"
-    label: "Post"
-    folder: "_posts"
-    filter:
-      field: language
-      value: en
+  - name: "EarthMCBE Docs"
+    label: "Docs"
+    folder: "docs/"
     fields:
       - {label: "Language", name: "language"}
