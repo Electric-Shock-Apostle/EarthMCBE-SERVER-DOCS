@@ -1,3 +1,3 @@
-# Headline
+# EarthMCBE Docs
 
-> An awesome project.
+> An awesome server.

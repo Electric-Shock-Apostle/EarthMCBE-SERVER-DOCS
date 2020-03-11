@@ -1,5 +1,5 @@
-# EarthMCBE Official Wiki
-# EarthMCBE 官方Wiki
+# EarthMCBE Official Docs
+# EarthMCBE 官方文档
 
 > + Official Website 官网: <https://earthmcbe.space/> 
 > + Players' Map 动态地图: <http://server.earthmcbe.space22123/>
